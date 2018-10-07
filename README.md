@@ -2,15 +2,17 @@
 
 This is a clasic game that was implemented with the goal to learn the basics of react and redux.
 
-## Requirements 
+Deployed using now - https://memorize-heros.now.sh/
 
-  * Nodejs
+## Requirements
+
+- Nodejs
 
 ## Run Locally
 
-  * git clone
-  * npm install
-  * npm start
+- git clone
+- npm install
+- npm start
 
 Browse to http://localhost:3000/
 
@@ -20,6 +22,6 @@ This is using the marvel API to get the heros and any time you start a new game 
 
 Click on Start new game button and try it!
 
-  * <img src="./.readme-static-files/starting-game.png" width="300">
+- <img src="./.readme-static-files/starting-game.png" width="300">
 
-  * <img src="./.readme-static-files/selected-heros.png" width="300">
+- <img src="./.readme-static-files/selected-heros.png" width="300">
